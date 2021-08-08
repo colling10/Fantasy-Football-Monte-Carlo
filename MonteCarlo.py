@@ -23,9 +23,6 @@ def stdev(data):
     std_dev = math.sqrt(var)
     return std_dev
 
-#making random team scores
-#print(NormalDist(10, 2).inv_cdf(random.random()))
-
 #getting some variables setup
 teams = list()
 scores = list()
