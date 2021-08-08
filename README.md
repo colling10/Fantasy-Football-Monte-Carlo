@@ -4,4 +4,4 @@ This code is to find the probability of what place each team will finish at the 
 
 There is an input txt file to enter the schedule and scores so far, and an output txt file with the probabilities. 
 This is my first "big" project with python, so the the input txt file must be formatted correctly with no leniency on mispellings. 
-Happy to hear comments or feedbacks. Example of required formatting can be found in the input txt file.
+Happy to hear comments or feedback. Example of required formatting can be found in the input txt file.
