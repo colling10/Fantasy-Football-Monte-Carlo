@@ -1,0 +1,30 @@
+Schedule:
+Week 1: 
+	Monstars versus GoonSquad
+	Aints versus Failcons
+Week 2:
+	Monstars versus Aints
+	GoonSquad versus Failcons
+Week 3:
+	Monstars versus Failcons
+	Aints versus GoonSquad
+Week 4: 
+	Monstars versus GoonSquad
+	Aints versus Failcons
+Week 5:
+	Monstars versus Aints
+	GoonSquad versus Failcons
+Week 6:
+	Monstars versus Failcons
+	Aints versus GoonSquad
+
+Scores:
+Week 1:
+	9 to 8
+	7 to 9
+Week 2:
+	9 to 6
+	8 to 9
+Week 3:
+	9 to 8
+	9 to 7
