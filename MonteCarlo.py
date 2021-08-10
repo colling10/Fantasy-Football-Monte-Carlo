@@ -42,13 +42,12 @@ placements = list()
 probabilities = list()
 PLAYOFFS = list()
 
-#enter file name, prolly need to add a 'make text file' bit of code if none
-fname = input("Enter file name:")
+#trying to open file
 try:
-    fhand = open(fname)
-except:
     fname = 'input.txt'
     fhand = open(fname)
+except:
+    print('input.txt file not found.')
 
 #check if schedule is included, and if 3 weeks have passed
 for line in fhand:
