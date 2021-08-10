@@ -234,3 +234,4 @@ with open('output.txt', 'w') as f:
         f.write('   Third ' + str(probabilities[i][2]) + '%, ')
         f.write('   Fourth ' + str(probabilities[i][3]) + '%\n\n')
         f.write('   PLAYOFFS??! ' + str(PLAYOFFS[i]) + '%\n\n')
+ print('Please check the output.txt file for the results.')
